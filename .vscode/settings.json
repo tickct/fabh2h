@@ -1,0 +1,26 @@
+{
+    "cssVariables.blacklistFolders": [
+
+        "**/.git",
+        "**/.svn",
+        "**/.hg",
+        "**/CVS",
+        "**/.DS_Store",
+        "**/node_modules",
+        "**/bower_components",
+        "**/tmp",
+        "**/dist",
+        "**/tests"
+    ],
+    "cssVariables.lookupFiles": [
+        "**/*.css",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.less",
+        "node_modules/@mantine/core/styles.css"
+    ],
+    "editor.formatOnSave": true,
+    "cSpell.words": [
+        "Mantine"
+    ]
+}
